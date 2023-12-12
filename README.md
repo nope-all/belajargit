@@ -1,1 +1,2 @@
 belajargit 
+masih belajar
